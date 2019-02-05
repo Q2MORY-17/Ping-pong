@@ -1,2 +1,2 @@
 # Ping-pong
-Ping pong LAB / Uni project.
+Quick game embedded device
